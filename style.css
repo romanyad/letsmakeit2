@@ -1,5 +1,5 @@
 /* make a round shape with red background */
 .round {
-  border-radius: 80%;
+  border-radius: 20%;
   background-color: red;
 }
